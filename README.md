@@ -1,6 +1,6 @@
 # Houf-FangZheng Font Project
 
-![Demo Image](./sampes/demo.png)
+![Demo Image](./samples/demo.png)
 
 ## Overview
 
@@ -13,7 +13,7 @@ This project is focused on creating, modifying, and merging fonts, particularly 
 - **haifen_images/**: Additional images for hyphen/glyph processing.
 - **new_fonts/**: Output directory for new font files.
 - **png_sources/**: Source PNG images for glyphs.
-- **sampes/**: Sample images and previews.
+- **samples/**: Sample images and previews.
 
 ## Key Files
 
